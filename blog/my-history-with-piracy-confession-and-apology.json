@@ -1,1 +1,30 @@
-
+{
+    "title": "My History With Piracy (Confession and Apology)",
+    "author": "themirrazz",
+    "type": "blog_post",
+    "age": 7,
+    "violence": {
+        "rating": 0
+    },
+    "language": {
+        "rating": 0
+    },
+    "sex": {
+        "rating": 0
+    },
+    "substances": {
+        "rating": 0
+    },
+    "diversity": {
+        "rating": 1,
+        "reason": "The majority of themirrazz' friends are online, which is something you don't hear about in people that often."
+    },
+    "role_models": {
+        "rating": 3,
+        "reason": "themirrazz apologies for past mistakes and promises not to repeat those same mistakes."
+    },
+    "education": {
+        "rating": 2,
+        "reason": "Can teach kids that when you make a mistake, its important to apologize and try not to make that mistake again."
+    }
+}
