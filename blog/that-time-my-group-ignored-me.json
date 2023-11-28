@@ -1,5 +1,5 @@
 {
-    "title": "That Time My Group Ignored Me",
+    "title": "",
     "author": "themirrazz",
     "type": "blog_post",
     "age": ,
@@ -7,8 +7,8 @@
         "rating": 0
     },
     "language": {
-        "rating": 1,
-        "reason": "One use of s--t, except censored as 'sh*t'."
+        "rating": 4,
+        "reason": "In a text mention, use of f--k, with the inside letters censored by emojis. 'my group can go kuso kurae' also used inside the text message. Use of some vulgar words like some 'crap' and 'pissed', and heavy use of 'freaking' and 'friggin'. Some uses of damn and one use of s--t, censored as 'sh*t'. Two uses of kuso, excluding the previous 'kuso kurae' mentioned. Use of Perfect-Freaking-Chaos ('What in the name of Perfect-Freaking-Chaos...'), as well as heavy use of chaosdamn and chaosdammit. One use of chaosawful and one use of chaosf--king, censored as 'chaosf*cking'."
     },
     "sex": {
         "rating": 0
@@ -23,10 +23,11 @@
         "rating": 0
     },
     "education": {
-        "rating": 0
+        "rating": 0,
+        "reason": "This blog post was designed more to vent and rant than to educate about this type of situation."
     },
     "purchases": {
-        "rating": 0,
-        "reason": ""
+        "rating": 3,
+        "reason": "Mentions of Facebook, Canva, Google AdSense, Replit, Google Fonts, and FontAwesome. Also mentions Chromebook and Raspberry Pi computers."
     }
 }
