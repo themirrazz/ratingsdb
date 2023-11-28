@@ -1,0 +1,38 @@
+{
+    "title": "",
+    "author": "themirrazz",
+    "type": "blog_post",
+    "age": ,
+    "violence": {
+        "rating": 0,
+        "reason": ""
+    },
+    "language": {
+        "rating": 0,
+        "reason": ""
+    },
+    "sex": {
+        "rating": 0,
+        "reason": ""
+    },
+    "substances": {
+        "rating": 0,
+        "reason": ""
+    },
+    "diversity": {
+        "rating": 0,
+        "reason": ""
+    },
+    "role_models": {
+        "rating": 0,
+        "reason": ""
+    },
+    "education": {
+        "rating": 0,
+        "reason": ""
+    },
+    "purchases": {
+        "rating": 0,
+        "reason": ""
+    }
+}
