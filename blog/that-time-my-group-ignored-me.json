@@ -1,0 +1,32 @@
+{
+    "title": "That Time My Group Ignored Me",
+    "author": "themirrazz",
+    "type": "blog_post",
+    "age": ,
+    "violence": {
+        "rating": 0
+    },
+    "language": {
+        "rating": 1,
+        "reason": "One use of s--t, except censored as 'sh*t'."
+    },
+    "sex": {
+        "rating": 0
+    },
+    "substances": {
+        "rating": 0
+    },
+    "diversity": {
+        "rating": 0
+    },
+    "role_models": {
+        "rating": 0
+    },
+    "education": {
+        "rating": 0
+    },
+    "purchases": {
+        "rating": 0,
+        "reason": ""
+    }
+}
