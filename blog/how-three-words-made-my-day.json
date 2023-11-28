@@ -1,0 +1,32 @@
+{
+    "title": "How Three Words Made My Day",
+    "author": "themirrazz",
+    "type": "blog_post",
+    "age": 8,
+    "violence": {
+        "rating": 0
+    },
+    "language": {
+        "rating": 1,
+        "reason": "One use of s--t, except censored as 'sh*t'."
+    },
+    "sex": {
+        "rating": 0
+    },
+    "substances": {
+        "rating": 0
+    },
+    "diversity": {
+        "rating": 0
+    },
+    "role_models": {
+        "rating": 0
+    },
+    "education": {
+        "rating": 0
+    },
+    "purchases": {
+        "rating": 4,
+        "reason": "Mentions of a Tesla car. Talks about the Reddit and Discord social media platforms, and mentions Discord features that can be activated, specifically Discord Nitro and AutoMod. Contains links to a subreddit and a Discord server. Mentions of iTunes, iOS, and Apple."
+    }
+}
