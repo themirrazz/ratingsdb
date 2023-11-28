@@ -1,0 +1,34 @@
+{
+    "title": "My Stance on Sex Jokes",
+    "author": "themirrazz",
+    "type": "blog_post",
+    "age": 10,
+    "violence": {
+        "rating": 0,
+        "reason": "Mention of hiring a hit man and use of the darkweb."
+    },
+    "language": {
+        "rating": 3,
+        "reason": "Use of the words damn, ass, and s--t. The s-bomb is censored as 'sh*t'."
+    },
+    "sex": {
+        "rating": 4,
+        "reason": "People around themirrazz think his song and fanart is sexually explicit. Mentions of moaning in a sexual context. Talks a little about jokes related to 69, bossom, and sexual bodily fluids. Mentions pornography, though does not go into detail about it. themirrazz says he isn't a 'horny teenager', and also mentions sexting."
+    },
+    "substances": {
+        "rating": 2,
+        "reason": "Mentions of tobacco, alchohol, and drugs. Specifically mentions w--d by name."
+    },
+    "diversity": {
+        "rating": 0
+    },
+    "role_models": {
+        "rating": 0
+    },
+    "education": {
+        "rating": 0
+    },
+    "purchases": {
+        "rating": 0
+    }
+}
